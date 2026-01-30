@@ -26,9 +26,14 @@ This project predicts **drone battery warning levels** from sensor data. It comb
 
 ## How to view the report
 - Option A (recommended): Open the report locally  
-  1) Click `drone_warning_report.html` in this repo  
-  2) Click **Download** (or **View raw**)  
-  3) Open the downloaded file in a browser (Chrome/Safari)
+  1. Click `drone_warning_report.html` in this repo  
+  2. Click **Download** (or **View raw**)  
+  3. Open the downloaded file in a browser (Chrome/Safari)
+
+## Use cases (how the results can be used)
+- Early-warning alerts for fleet operations to reduce safety risk and downtime.
+- Maintenance triage by ranking vehicles/batteries using predicted warning probabilities.
+- Explainable diagnostics to support QA reviews and incident post-mortems.
 
 
 ## Author
